@@ -3,7 +3,7 @@ import discord
 from utils import config, data
 
 config = config.Config.from_env(".env")
-print("Logging in...")
+print("Mencoba Masuk Ke Bot...")
 
 bot = data.DiscordBot(
     config=config, command_prefix=config.discord_prefix,
