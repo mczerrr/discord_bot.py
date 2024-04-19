@@ -72,3 +72,5 @@ docker-compose <command>
   reboot  Reboot the bot without shutting it down or rebuilding
   logs    Check the logs made by the bot.
 ```
+
+saya menggunakan repo orang lain
