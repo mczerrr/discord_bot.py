@@ -22,4 +22,4 @@ bot = data.DiscordBot(
 try:
     bot.run(config.discord_token)
 except Exception as e:
-    print(f"Error when logging in: {e}")
+    print(f"Terjadi Masalah Ketika Masuk: {e}")
